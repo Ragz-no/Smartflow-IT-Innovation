@@ -106,3 +106,10 @@ The chosen technologies reflect **modern, industry-relevant web development prac
 ---
 
 ## 📁 Repository Structure
+
+```text
+Smartflow-IT-Innovation/
+├── index.html    # Main website file
+├── style.css     # Stylesheet for the website
+└── README.md     # Project documentation
+```
